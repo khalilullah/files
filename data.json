@@ -36,7 +36,7 @@
   ],
 
   "contacts": [
-    {"id": 1, "name": "Kamal Hosain","profile":"https://github.com/khalilullah/files/blob/main/4.jpg", "phone":"01930250051444444444444444444444444444444444444444444444444444444","designation":"Chairman","orderBy":1,"email":"mkubd212@gmail.com","unitId": 1 },
+    {"id": 1, "name": "Kamal Hosain","profile":"https://github.com/khalilullah/files/blob/main/4.jpg", "phone":"01930250051","designation":"Chairman","orderBy":1,"email":"mkubd212@gmail.com","unitId": 1 },
     {"id": 14, "name": "Jahan abd",  "profile":"https://github.com/khalilullah/files/blob/main/4.jpg", "phone":"01930250052","designation":"professor","orderBy":2,"email":"mkubd212@gmail.com", "unitId": 1},
     {"id": 2, "name": "jamal Udin",  "profile":"https://github.com/khalilullah/files/blob/main/4.jpg", "phone":"01930250052","designation":"Associate professor","orderBy":3,"email":"mkubd212@gmail.com", "unitId": 1},
     {"id": 3, "name": "Jony Rahman", "profile":"https://github.com/khalilullah/files/blob/main/4.jpg", "phone":"01930250053","designation":"Asst. professor","orderBy":4,"email":"mkubd212@gmail.com", "unitId": 3},
